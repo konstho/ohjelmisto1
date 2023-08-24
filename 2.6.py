@@ -1,0 +1,10 @@
+import random
+a = random.randint(0,9)
+b = random.randint(0,9)
+c = random.randint(0,9)
+print(a, b ,c)
+q = random.randint(1,6)
+w = random.randint(1, 6)
+e = random.randint(1, 6)
+r = random.randint(1,6)
+print(q, w, e, r)
